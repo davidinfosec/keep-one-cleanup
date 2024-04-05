@@ -4,6 +4,8 @@
 
 `k1cleanup.py` is a Python script designed to clean up directories by removing all files except one specified file. This script is useful when you want to retain a specific file and delete everything else within a directory.
 
+![firefox_AIL91gisYe](https://github.com/davidinfosec/keep-one-cleanup/assets/87215831/0db8bfb8-514d-4cbe-99a4-e0dc5d3941ec)
+
 ## Usage
 
 1. **Download the Script**: Download `k1cleanup.py` to your local machine.
